@@ -1,0 +1,13 @@
+# Logical operators in python...
+# 1.) and
+# 2.) or
+# 3.) not
+
+# and
+print(5>1 and 6>5)   # Both need to be true in this case...
+
+# or
+print(5<1 or 6>5)   # Any one is true that makes the whole true...
+
+# not
+print(not 8>1)      # It inverts the answer, here the "true" answer is made "false"...
